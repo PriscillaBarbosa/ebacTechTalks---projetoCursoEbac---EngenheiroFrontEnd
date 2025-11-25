@@ -24,28 +24,6 @@ Este projeto utiliza uma stack moderna para garantir performance e organização
 
 ---
 
-## 📂 Estrutura de Pastas
-
-A estrutura do projeto segue o padrão de separação entre arquivos de desenvolvimento (`src`) 
-e arquivos finais de produção (`dist`):
-
-/
-├── src/             # Arquivos fonte (desenvolvimento)
-│   ├── styles/      # Arquivos .scss
-│   ├── scripts/     # Arquivos .js
-│   ├── images/      # Imagens originais
-│   └── index.html   # HTML base
-│
-├── dist/            # Arquivos otimizados (gerados pelo Gulp)
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── gulpfile.js      # Configuração das tarefas do Gulp
-└── package.json     # Dependências do projeto
-
----
-
 ##✨ Funcionalidades
 Layout Responsivo: Adaptável a dispositivos móveis, tablets e desktops.
 
@@ -63,3 +41,26 @@ Desenvolvido com 💜 durante o curso da EBAC.
 
 💼 LinkedIn: [Perfil Profissional](https://www.linkedin.com/in/priscillabarbosa-developer/)
 🐙 GitHub: [@PriscillaBarbosa](https://github.com/PriscillaBarbosa)
+
+## 📂 Estrutura de Pastas
+
+A estrutura do projeto segue o padrão de separação entre arquivos de desenvolvimento (`src`) 
+e arquivos finais de produção (`dist`):
+```bash
+/
+├── src/             # Arquivos fonte (desenvolvimento)
+│   ├── styles/      # Arquivos .scss
+│   ├── scripts/     # Arquivos .js
+│   ├── images/      # Imagens originais
+│   └── index.html   # HTML base
+│
+├── dist/            # Arquivos otimizados (gerados pelo Gulp)
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── gulpfile.js      # Configuração das tarefas do Gulp
+└── package.json     # Dependências do projeto
+
+---
+
