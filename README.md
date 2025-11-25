@@ -8,8 +8,7 @@ O objetivo deste projeto foi criar uma página responsiva e otimizada para um ev
 
 ## 📸 Demonstração
 
-*Você pode incluir aqui um print da tela ou o link do Vercel/GitHub Pages se estiver no ar.*
-* **Acesse o projeto online:** (Insira o link aqui, ex: https://seu-usuario.github.io/nome-do-repo)
+* **Acesse o projeto online:** (https://ebac-tech-talks-seven-delta.vercel.app/)
 
 ---
 
